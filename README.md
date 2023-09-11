@@ -1,5 +1,5 @@
-## RASPBERRY PI RESOURCES
+# RASPBERRY PI RESOURCES
+## Commands
 
-# Commands
-Update and upgrade 
+# Update and upgrade 
 `sudo apt update && sudo apt upgrade`
