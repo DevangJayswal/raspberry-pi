@@ -1,7 +1,7 @@
 # RASPBERRY PI RESOURCES
 ## Commands
 ### Update and upgrade 
-`sudo apt update && sudo apt upgrade`
+`sudo apt update && sudo apt upgrade -y`
 ### Remote Desktop
   Server: xrdp: `sudo apt install xrdp`
   
