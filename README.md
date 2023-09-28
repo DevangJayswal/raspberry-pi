@@ -15,4 +15,4 @@ https://sdkman.io/
 
 `source "$HOME/.sdkman/bin/sdkman-init.sh"`
 
-`sdk`
+`sdk install java 21-oracle`
