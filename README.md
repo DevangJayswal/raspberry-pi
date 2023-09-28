@@ -4,6 +4,7 @@
 `sudo apt update && sudo apt upgrade -y`
 ### Remote Desktop
   Server: xrdp: `sudo apt install xrdp`
+  Refer to Issues in this repository if you've problem with login.
   
   Client: Remmina: `sudo apt install remmina`
 
