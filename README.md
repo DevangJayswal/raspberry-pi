@@ -17,6 +17,9 @@
 
 `sudo apt purge ./<deb package>`
 
+`sudo apt autoremove` Remove automatically all unused packages
+
+
 ### Check Raspberry Pi OS information
 `lsb_release -a`
 
