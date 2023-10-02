@@ -35,13 +35,13 @@ In order to set new root user password, use `sudo passwd root`
 `sudo smbpasswd -a raspi-samba`
 
 Open `smb.cong` file `sudo nano /etc/samba/smb.conf` and add the config 
-`[devang-hd]
+```[devang-hd]
 path = /media/devang/Devang
 writeable=Yes
 create mask=0777
 directory mask=0777
 public=no
-`
+```
 
 `sudo service smbd restart`
 
