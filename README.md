@@ -13,6 +13,10 @@
 
 `sudo apt install ./<deb package>`
 
+`sudo apt remove ./<deb package>`
+
+`sudo apt purge ./<deb package>`
+
 ### Check Raspberry Pi OS information
 `lsb_release -a`
 
