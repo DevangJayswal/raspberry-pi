@@ -8,7 +8,7 @@
     
   Client: Remmina: `sudo apt install remmina`
 
-### Add remove .deb
+### Add remove program
 `dpkg -l` or `dpkg -l | grep <package_name>`
 
 `sudo apt install ./<deb package>`
