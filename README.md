@@ -8,7 +8,8 @@
     
   Client: Remmina: `sudo apt install remmina`
 
-### Install .deb file
+### Add remove .deb
+`dpkg -l`
 `sudo apt install ./<deb package>`
 
 ### Check Raspberry Pi OS information
