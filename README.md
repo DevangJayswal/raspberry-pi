@@ -1,5 +1,10 @@
-# RASPBERRY PI RESOURCES
+# RASPBERRY PI RESOURCES (Raspberry Pi OS 64 bit)
 ## Commands
+
+### Set root user password
+On Raspberry Pi OS, the root account is disabled by default, so there is no default password.
+In order to set new root user password, use `sudo passwd root`
+
 ### Update and upgrade 
 `sudo apt update && sudo apt upgrade -y`
 ### Remote Desktop
