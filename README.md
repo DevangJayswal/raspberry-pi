@@ -11,6 +11,9 @@
 ### Install .deb file
 `sudo apt install ./<deb package>`
 
+### Check Raspberry Pi OS information
+`lsb_release -a`
+
 ### SDKMan
 https://sdkman.io/
 
