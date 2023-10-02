@@ -8,6 +8,9 @@
     
   Client: Remmina: `sudo apt install remmina`
 
+### Install .deb file
+`sudo apt install ./<deb package>`
+
 ### SDKMan
 https://sdkman.io/
 
