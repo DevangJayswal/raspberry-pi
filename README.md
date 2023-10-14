@@ -54,6 +54,5 @@ https://sdkman.io/
 
 `curl -s "https://get.sdkman.io" | bash`
 
-`source "$HOME/.sdkman/bin/sdkman-init.sh"`
-
-`sdk install java 21-oracle`
+### [Resolution] The profile appears to be in use by another Chromium process (2041) on another computer
+`rm -rf ~/.config/chromium/Singleton*`
