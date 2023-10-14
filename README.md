@@ -62,3 +62,6 @@ https://sdkman.io/
 
 ### kill process
 `kill -9 <process_id>`
+
+### install .tar.gz 
+tar -zxvf <file>
