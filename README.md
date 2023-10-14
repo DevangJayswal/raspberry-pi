@@ -56,3 +56,6 @@ https://sdkman.io/
 
 ### [Resolution] The profile appears to be in use by another Chromium process (2041) on another computer
 `rm -rf ~/.config/chromium/Singleton*`
+
+### Launch chromium from command line
+`chromium-browser`
