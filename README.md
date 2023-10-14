@@ -63,7 +63,7 @@ https://sdkman.io/
 ### kill process
 `kill -9 <process_id>`
 
-### install .tar.gz 
+### install .tar.gz. should be installed in `/opt` directory
 tar -zxvf <file>
 
 ### find java installation path
