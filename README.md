@@ -59,3 +59,6 @@ https://sdkman.io/
 
 ### Launch chromium from command line
 `chromium-browser`
+
+### kill process
+`kill -9 <process_id>`
