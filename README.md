@@ -65,3 +65,6 @@ https://sdkman.io/
 
 ### install .tar.gz 
 tar -zxvf <file>
+
+### find java installation path
+`which java`
