@@ -84,5 +84,6 @@ sudo apt install tor
 `which java`
 
 ### The most popular app store for Raspberry Pi
-https://pi-apps.io/
-https://pi-apps.io/install/
+`https://pi-apps.io/`
+
+`https://pi-apps.io/install/`
