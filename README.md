@@ -7,9 +7,12 @@ In order to set new root user password, use `sudo passwd root`
 
 ### Update and upgrade 
 `sudo apt update && sudo apt upgrade -y`
+
+`sudo apt full-upgrade`
+
 ### Remote Desktop
   Server: xrdp: `sudo apt install xrdp`
-    Refer to Issues in this repository if you've problem login with xrdp.
+    Refer to `Issues` directory in this repository if you've problem login with xrdp.
     
   Client: Remmina: `sudo apt install remmina`
 
@@ -69,21 +72,15 @@ tar -zxvf <file>
 ### Install qBitorrent
 https://pimylifeup.com/ubuntu-qbittorrent/
 ```
-sudo apt update 
-sudo apt full-upgrade 
 sudo apt install qbittorrent
-```
-
-### Install Tor
-https://pimylifeup.com/ubuntu-qbittorrent/
-```
-sudo apt install tor
 ```
 
 ### Find Java installation path
 `which java`
 
 ### The most popular app store for Raspberry Pi
+E.g. you can download Tor browser
+
 `https://pi-apps.io/`
 
 `https://pi-apps.io/install/`
