@@ -66,5 +66,13 @@ https://sdkman.io/
 ### install .tar.gz. should be installed in `/opt` directory
 tar -zxvf <file>
 
+### Install qBitorrent
+https://pimylifeup.com/ubuntu-qbittorrent/
+```
+sudo apt update 
+sudo apt full-upgrade 
+sudo apt install qbittorrent
+```
+
 ### find java installation path
 `which java`
