@@ -60,10 +60,10 @@ https://sdkman.io/
 ### Launch chromium from command line
 `chromium-browser`
 
-### kill process
+### Kill process
 `kill -9 <process_id>`
 
-### install .tar.gz. should be installed in `/opt` directory
+### Install .tar.gz. should be installed in `/opt` directory
 tar -zxvf <file>
 
 ### Install qBitorrent
@@ -74,5 +74,15 @@ sudo apt full-upgrade
 sudo apt install qbittorrent
 ```
 
-### find java installation path
+### Install Tor
+https://pimylifeup.com/ubuntu-qbittorrent/
+```
+sudo apt install tor
+```
+
+### Find Java installation path
 `which java`
+
+### The most popular app store for Raspberry Pi
+https://pi-apps.io/
+https://pi-apps.io/install/
